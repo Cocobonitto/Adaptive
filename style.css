@@ -112,6 +112,10 @@ header .name {
     background-color: grey;
 }
 
+header {
+    background-color: rgba(110, 110, 110, 80%);
+}
+
 @media screen and (max-width: 1025px) {
     .elements {
         display: flex;
